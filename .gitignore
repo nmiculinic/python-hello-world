@@ -131,4 +131,5 @@ dmypy.json
 test
 nohup.out
 artifacts.txt
+artifacts-*.txt
 grid_artifacts
