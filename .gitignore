@@ -133,3 +133,4 @@ nohup.out
 artifacts.txt
 artifacts-*.txt
 grid_artifacts
+datastore
